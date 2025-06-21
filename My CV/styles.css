@@ -1,0 +1,34 @@
+body {
+    background-color: #F3FDE8;
+    color:#5C5470;
+    font-family: cursive;
+}
+    
+hr { 
+    background-color:none;
+    border-color: #A8A196;
+    border-style: dotted none none;
+    border-width:7px;
+    width: 5%;
+}
+
+
+.shadowbox {
+    margin-left: 40%;
+}
+img{
+    height: 150px;
+}
+
+h1 {
+    color:#183D3D;
+    font-family: serif;
+}
+h2 {
+    color:#5C8374;
+    font-family: serif;
+}
+h3 {
+    color:#5C8374;
+    font-family: serif; 
+} 
